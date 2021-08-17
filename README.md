@@ -64,6 +64,10 @@ This file contains demographic information about the students together with thei
 - disability – indicates whether the student has declared a disability.
 - final_result – student’s final result in the module-presentation.
 
+-> final_result 아래 사진 참조\
+출처 : <https://www.classcentral.com/report/open-university-insiders-perspective/>
+![open university final result](./final_result.png)
+
 ---
 ### studentRegistration.csv
 
